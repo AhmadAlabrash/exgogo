@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>949658520413-c8l6v6jj9qmo208r2bi9t73c3q8dpki4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqor8KuVN8tmX22VtexwB07ee7QVBfCxY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>949658520413</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.xgenious.xilancer-client</string>
+	<key>PROJECT_ID</key>
+	<string>xilancer-xgenious-com</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xilancer-xgenious-com.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:949658520413:ios:b26db90bbbd5a8a40f36b4</string>
+</dict>
+</plist>

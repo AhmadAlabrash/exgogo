@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949658520413",
+    "project_id": "xilancer-xgenious-com",
+    "storage_bucket": "xilancer-xgenious-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949658520413:android:b4556938c9e7b4660f36b4",
+        "android_client_info": {
+          "package_name": "com.xgenious.xilancer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMEBUzTuZbPcX8Y1pE1tuZXiFgPQFz7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949658520413:android:c6977a243b5334a80f36b4",
+        "android_client_info": {
+          "package_name": "com.xgenious.xilancer_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMEBUzTuZbPcX8Y1pE1tuZXiFgPQFz7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
